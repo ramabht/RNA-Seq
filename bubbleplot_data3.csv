@@ -1,0 +1,29 @@
+GO_term,Count,Module,Gene_ratio
+SOS response,8,orange,0.285714286
+response to external stimulus,11,orange,0.392857143
+cellular response to extracellular stimulus,9,orange,0.321428571
+cellular response to external stimulus,9,orange,0.321428571
+response to extracellular stimulus,9,orange,0.321428571
+cell communication,9,orange,0.321428571
+cellular response to DNA damage stimulus,10,orange,0.357142857
+cellular response to stimulus,13,orange,0.464285714
+regulation of localization,4,orange,0.142857143
+cellular response to stress,11,orange,0.392857143
+carbohydrate transport,15,purple,0.151515152
+monocarboxylic acid catabolic process,13,purple,0.131313131
+small molecule catabolic process,22,purple,0.222222222
+fatty acid catabolic process,6,purple,0.060606061
+lipid catabolic process,6,purple,0.060606061
+cellular lipid catabolic process,6,purple,0.060606061
+monosaccharide metabolic process,11,purple,0.111111111
+carboxylic acid catabolic process,15,purple,0.151515152
+hexose metabolic process,8,purple,0.080808081
+toxin catabolic process,5,purple,0.050505051
+fatty acid beta-oxidation,5,purple,0.050505051
+organic acid catabolic process,15,purple,0.151515152
+hexose catabolic process,6,purple,0.060606061
+iron-sulfur cluster assembly,6,saddlebrown,0.206896552
+metallo-sulfur cluster assembly,6,saddlebrown,0.206896552
+protein maturation,6,saddlebrown,0.206896552
+cofactor metabolic process,10,saddlebrown,0.344827586
+reactive oxygen species metabolic process,3,saddlebrown,0.103448276

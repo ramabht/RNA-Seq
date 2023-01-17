@@ -1,0 +1,62 @@
+GO_term,Count,Module,Gene_ratio
+small molecule catabolic process,62,blue,0.155778894
+organic acid metabolic process,98,blue,0.246231156
+alpha-amino acid biosynthetic process,34,blue,0.085427136
+organic acid catabolic process,46,blue,0.115577889
+catabolic process,94,blue,0.236180905
+carboxylic acid metabolic process,92,blue,0.231155779
+monocarboxylic acid catabolic process,30,blue,0.075376884
+carboxylic acid catabolic process,43,blue,0.108040201
+oxoacid metabolic process,92,blue,0.231155779
+organic substance catabolic process,90,blue,0.226130653
+cellular amino acid biosynthetic process,35,blue,0.087939698
+cellular catabolic process,74,blue,0.185929648
+arginine biosynthetic process,9,blue,0.022613065
+L-alpha-amino acid transmembrane transport,10,blue,0.025125628
+arginine metabolic process,11,blue,0.027638191
+alpha-amino acid metabolic process,41,blue,0.103015075
+glutamine family amino acid biosynthetic process,11,blue,0.027638191
+amino acid import,8,blue,0.020100503
+amino acid import across plasma membrane,8,blue,0.020100503
+amino acid transport,21,blue,0.052763819
+aromatic amino acid transport,7,blue,0.01758794
+aspartate family amino acid biosynthetic process,12,blue,0.030150754
+fatty acid beta-oxidation,9,blue,0.022613065
+branched-chain amino acid metabolic process,9,blue,0.022613065
+branched-chain amino acid biosynthetic process,9,blue,0.022613065
+branched-chain amino acid transport,7,blue,0.01758794
+import across plasma membrane,10,blue,0.025125628
+L-amino acid transport,12,blue,0.030150754
+fatty acid catabolic process,10,blue,0.025125628
+sulfur compound transport,15,darkorange,0.089285714
+sulfur compound biosynthetic process,13,darkorange,0.077380952
+water-soluble vitamin biosynthetic process,14,darkorange,0.083333333
+vitamin biosynthetic process,14,darkorange,0.083333333
+sulfur compound metabolic process,20,darkorange,0.119047619
+water-soluble vitamin metabolic process,15,darkorange,0.089285714
+organonitrogen compound biosynthetic process,47,darkorange,0.279761905
+purine nucleotide biosynthetic process,11,darkorange,0.06547619
+vitamin metabolic process,15,darkorange,0.089285714
+purine-containing compound biosynthetic process,11,darkorange,0.06547619
+thiamine biosynthetic process,6,darkorange,0.035714286
+thiamine-containing compound biosynthetic process,6,darkorange,0.035714286
+thiamine metabolic process,6,darkorange,0.035714286
+thiamine-containing compound metabolic process,6,darkorange,0.035714286
+purine nucleotide metabolic process,13,darkorange,0.077380952
+nucleotide biosynthetic process,13,darkorange,0.077380952
+pyrimidine-containing compound biosynthetic process,8,darkorange,0.047619048
+sulfur amino acid transport,6,darkorange,0.035714286
+amine biosynthetic process,6,darkorange,0.035714286
+cellular biogenic amine biosynthetic process,6,darkorange,0.035714286
+nucleoside phosphate biosynthetic process,13,darkorange,0.077380952
+nucleoside phosphate metabolic process,17,darkorange,0.101190476
+purine-containing compound metabolic process,13,darkorange,0.077380952
+small molecule biosynthetic process,30,darkorange,0.178571429
+nucleotide metabolic process,16,darkorange,0.095238095
+tryptophan metabolic process,5,darkorange,0.029761905
+indolalkylamine metabolic process,5,darkorange,0.029761905
+serine family amino acid catabolic process,5,darkorange,0.029761905
+indole-containing compound metabolic process,5,darkorange,0.029761905
+modified amino acid transport,7,darkorange,0.041666667
+nucleoside monophosphate biosynthetic process,5,darkorange,0.029761905
+purine ribonucleotide biosynthetic process,7,darkorange,0.041666667

@@ -1,0 +1,30 @@
+Description,Count,Module
+2-Oxocarboxylic acid metabolism,14,blue
+Arginine biosynthesis,11,blue
+Microbial metabolism in diverse environments,61,blue
+"Valine, leucine and isoleucine biosynthesis",9,blue
+Quorum sensing,21,blue
+Pentose and glucuronate interconversions,14,blue
+Biosynthesis of amino acids,31,blue
+Sulfur metabolism,14,darkorange
+Thiamine metabolism,9,darkorange
+Purine metabolism,19,darkorange
+One carbon pool by folate,7,darkorange
+Biosynthesis of cofactors,24,darkorange
+Ribosome,53,darkred
+Protein export,12,darkred
+Homologous recombination,11,darkred
+DNA replication,8,darkred
+Mismatch repair,9,darkred
+Phosphotransferase system (PTS),20,green
+Pentose and glucuronate interconversions,15,green
+Amino sugar and nucleotide sugar metabolism,15,green
+Galactose metabolism,12,green
+Fructose and mannose metabolism,13,green
+Ascorbate and aldarate metabolism,8,green
+Lipopolysaccharide biosynthesis,11,green
+Microbial metabolism in diverse environments,21,purple
+Fatty acid degradation,5,purple
+"Valine, leucine and isoleucine degradation",4,purple
+Fatty acid metabolism,5,purple
+Benzoate degradation,4,purple

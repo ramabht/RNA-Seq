@@ -1,0 +1,11 @@
+cond_col	cond1	cond2
+Condition	Rich_LB_ATC12	Poor_M9_ATC5
+Condition	Rich_LB_ATC12	Rich_M9_ATC5_1
+Condition	Rich_LB_ATC12	Rich_M9_ATC5_2
+Condition	Rich_M9_ATC5_1	Poor_M9_ATC5
+Condition	Rich_M9_ATC5_2	Poor_M9_ATC5
+Condition	Rich_M9_ATC5_1	Rich_M9_ATC5_2
+Condition	Rich_M9_ATC5_2	Rich_M9_ATC5_CAM1.2
+Condition	Rich_M9_ATC5_2	Rich_M9_ATC5_TMP
+Condition	Rich_M9_ATC5_2	Rich_M9_ATC5_NOX
+Condition	Rich_M9_ATC5_2	Rich_M9_ATC5_PH5

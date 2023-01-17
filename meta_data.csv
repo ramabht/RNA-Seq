@@ -1,0 +1,21 @@
+Sample,Lennox Broth,Poor M9,Rich M9,CAM,TMP,LOX,ph5
+Poor_M9_ATC5.rep1,0,1,0,0,0,0,0
+Poor_M9_ATC5.rep2,0,1,0,0,0,0,0
+Rich_LB_ATC12.rep1,1,0,0,0,0,0,0
+Rich_LB_ATC12.rep2,1,0,0,0,0,0,0
+Rich_M9_ATC5_1.rep1,0,0,1,0,0,0,0
+Rich_M9_ATC5_1.rep2,0,0,1,0,0,0,0
+Rich_M9_ATC5_2.rep1,0,0,1,0,0,0,0
+Rich_M9_ATC5_2.rep2,0,0,1,0,0,0,0
+Rich_M9_ATC5_CAM1.2.rep1,0,0,0,1,0,0,0
+Rich_M9_ATC5_CAM1.2.rep2,0,0,0,1,0,0,0
+Rich_M9_ATC5_NOX.rep1,0,0,0,0,0,1,0
+Rich_M9_ATC5_NOX.rep2,0,0,0,0,0,1,0
+Rich_M9_ATC5_PH5.rep1,0,0,0,0,0,0,1
+Rich_M9_ATC5_PH5.rep2,0,0,0,0,0,0,1
+Rich_M9_ATC5_TMP.rep1,0,0,0,0,1,0,0
+Rich_M9_ATC5_TMP.rep2,0,0,0,0,1,0,0
+Rich_M9_No_ATC_1.rep1,0,0,0,0,0,0,0
+Rich_M9_No_ATC_1.rep2,0,0,0,0,0,0,0
+Rich_M9_No_ATC_2.rep1,0,0,0,0,0,0,0
+Rich_M9_No_ATC_2.rep2,0,0,0,0,0,0,0

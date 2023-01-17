@@ -1,0 +1,73 @@
+GO_term,Count,Module,Gene_ratio
+ribosome biogenesis,53,darkred,0.15451895
+ribosome assembly,39,darkred,0.113702624
+ribonucleoprotein complex biogenesis,53,darkred,0.15451895
+ribonucleoprotein complex assembly,36,darkred,0.104956268
+ribonucleoprotein complex subunit organization,36,darkred,0.104956268
+organelle organization,49,darkred,0.142857143
+organelle assembly,39,darkred,0.113702624
+cellular protein-containing complex assembly,39,darkred,0.113702624
+RNA processing,42,darkred,0.12244898
+ribosomal small subunit biogenesis,19,darkred,0.055393586
+ribosomal small subunit assembly,17,darkred,0.049562682
+ncRNA processing,39,darkred,0.113702624
+ribosomal large subunit assembly,20,darkred,0.058309038
+ribosomal large subunit biogenesis,20,darkred,0.058309038
+cellular component organization or biogenesis,91,darkred,0.265306122
+ncRNA metabolic process,41,darkred,0.119533528
+RNA modification,30,darkred,0.087463557
+cellular component biogenesis,69,darkred,0.201166181
+cellular component organization,73,darkred,0.212827988
+protein-containing complex assembly,42,darkred,0.12244898
+posttranscriptional regulation of gene expression,20,darkred,0.058309038
+tRNA processing,23,darkred,0.067055394
+protein-containing complex subunit organization,46,darkred,0.134110787
+enterobacterial common antigen biosynthetic process,9,darkred,0.026239067
+enterobacterial common antigen metabolic process,9,darkred,0.026239067
+translation,29,darkred,0.084548105
+regulation of translation,17,darkred,0.049562682
+negative regulation of translation,13,darkred,0.037900875
+regulation of cellular amide metabolic process,17,darkred,0.049562682
+peptide biosynthetic process,29,darkred,0.084548105
+tRNA modification,19,darkred,0.055393586
+RNA methylation,16,darkred,0.04664723
+negative regulation of cellular amide metabolic process,13,darkred,0.037900875
+tRNA metabolic process,25,darkred,0.072886297
+negative regulation of cellular protein metabolic process,13,darkred,0.037900875
+rRNA processing,17,darkred,0.049562682
+methylation,17,darkred,0.049562682
+macromolecule methylation,17,darkred,0.049562682
+cellular component assembly,48,darkred,0.139941691
+peptide metabolic process,31,darkred,0.090379009
+tRNA methylation,9,darkred,0.026239067
+rRNA metabolic process,17,darkred,0.049562682
+regulation of cellular protein metabolic process,17,darkred,0.049562682
+negative regulation of protein metabolic process,13,darkred,0.037900875
+regulation of protein metabolic process,18,darkred,0.052478134
+amide biosynthetic process,31,darkred,0.090379009
+establishment of protein localization to membrane,8,darkred,0.023323615
+membrane organization,11,darkred,0.032069971
+RNA metabolic process,78,darkred,0.227405248
+establishment of protein localization,13,darkred,0.037900875
+cellular amide metabolic process,35,darkred,0.102040816
+intracellular protein transport,7,darkred,0.020408163
+response to radiation,24,darkred,0.069970845
+protein insertion into membrane,6,darkred,0.017492711
+cellular protein localization,10,darkred,0.029154519
+cellular macromolecule localization,10,darkred,0.029154519
+DNA conformation change,7,darkred,0.020408163
+chromosome organization,9,darkred,0.026239067
+macromolecule localization,19,darkred,0.055393586
+carbohydrate transport,40,green,0.125786164
+carbohydrate transmembrane transport,26,green,0.081761006
+monosaccharide transmembrane transport,21,green,0.066037736
+hexose transmembrane transport,15,green,0.047169811
+carbohydrate catabolic process,37,green,0.116352201
+carbohydrate metabolic process,53,green,0.166666667
+monosaccharide catabolic process,20,green,0.062893082
+phosphoenolpyruvate-dependent sugar (PTS),18,green,0.056603774
+oligosaccharide transport,8,green,0.025157233
+disaccharide transport,7,green,0.022012579
+cellular carbohydrate catabolic process,15,green,0.047169811
+monosaccharide metabolic process,22,green,0.06918239
+carbohydrate derivative catabolic process,16,green,0.050314465
